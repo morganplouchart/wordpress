@@ -1,0 +1,8 @@
+Avant de lancer le script veuillez suivre les étapes suivantes : 
+sudo apt-get isntal mysql-server
+mysql -uroot -p
+root 0000
+create database "nom de votre base de donnée"
+use "nom de votre base de donnée"
+
+
